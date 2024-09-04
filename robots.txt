@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://productsusm.github.io/sitemap/sitemap.txt
